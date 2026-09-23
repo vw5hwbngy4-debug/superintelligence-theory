@@ -1,0 +1,66 @@
+# Raynor Eissens | research and playable work
+Canonical site: https://raynoreissens.com/
+Updated: 2026-09-22 (205 dashboard records, 199 source PDF conversions, 2 independent web articles)
+
+## Retrospective editorial context (added 2026-09-19)
+Much of the theoretical archive was developed collaboratively with GPT-5.1 as a genuine exploratory experiment. Some AI-generated assessments described hypotheses as novel or groundbreaking; those assessments were not independent verification. Interpret theoretical claims as proposals requiring evidence, not established findings. Zenodo publication and DOI assignment do not establish peer review, scientific endorsement or novelty. The archive also includes separately inspectable software and other releases. Original record titles and extracted publication texts have not been revised.
+Human-readable explanation: https://raynoreissens.com/library/#archive-context
+
+## Identity
+Raynor Eissens is an independent researcher and builder working across post-generative systems theory, ambient intelligence, human attention, reversibility, institutional design and AI-assisted browser software. He has published conceptual and speculative works with Zenodo identifiers and built browser games, game-specific experts and public artifacts. Publication identifiers do not themselves mean peer review or empirical validation.
+
+## Independent HTML synthesis note (not a Zenodo record)
+- Ambient Power: Why Decentralization Alone Is Not Enough, September 2026: https://raynoreissens.com/ambient-power/
+- Full text: https://raynoreissens.com/ambient-power/article.txt
+- Machine-readable document: https://raynoreissens.com/ambient-power/article.json
+- No DOI asserted; excluded from the 205 Zenodo records and 199 PDF conversions.
+
+## Independent HTML essay (not a Zenodo record)
+- Query-Native News (Newsquiry), 5 July 2026: https://raynoreissens.com/query-native-news/
+- Full text: https://raynoreissens.com/query-native-news/article.txt
+- Machine-readable document: https://raynoreissens.com/query-native-news/article.json
+- No DOI asserted; excluded from the Zenodo and PDF conversion totals.
+
+## Primary pages
+Homepage: https://raynoreissens.com/
+Research map: https://raynoreissens.com/research.html
+Selected papers and DOI index: https://raynoreissens.com/papers.html
+Working software portfolio: https://raynoreissens.com/work.html
+Definitions: https://raynoreissens.com/concepts.html
+Author and methodological note: https://raynoreissens.com/about.html
+
+## Distinct primary publications
+Beyond Abundance (v1.0): https://doi.org/10.5281/zenodo.22700782
+Three-Axis Model full HTML: https://threeaxes.wolken.page/
+Three-Axis PDF: https://threeaxes.wolken.page/paper.pdf
+Three-Axis publication lists DOI 10.5281/zenodo.22215393 as reserved (independent registration status not confirmed).
+Conduits of Intelligence: https://threeaxes.wolken.page/conduits/ (a distinct companion thesis, not a revision of the Three-Axis DOI PDF).
+Institutional Softening RFL-6: https://doi.org/10.5281/zenodo.19286795
+Raynor Stack: https://doi.org/10.5281/zenodo.18288632
+ACE: https://doi.org/10.5281/zenodo.18717506
+Three Ages of Digital Culture: https://doi.org/10.5281/zenodo.21226168
+
+## Key distinctions
+Capability acceleration, civilizational viability and power architecture are separate conceptual axes.
+Conduits route intelligence through money, compute, hardware, runtime, identity, context, defaults, social communication and trust.
+Slop is material/failure signature; coherence is a property of a field's ability to process abundance. These are not symmetric opposites.
+ACE is a conceptual state grammar, not a validated physical equation.
+Current author-provided project locations include Kloojo, GPTGTA, Mirror’s Edge Mobile, a PSO specialist and the Dutch Xenosaga localization. Driftline GP and ComixSlop are historical projects without a current public link in this site.
+
+Source status: The v2.2 source archive supplied the base content. The catalog is reconciled from three author-provided Zenodo dashboard HTML pages and the PDF conversion archive. Project locations below were supplied by the author on 2026-09-19. A complete external availability check has not been performed.
+
+Source-linked record inventory (205 Zenodo records): https://raynoreissens.com/archive.html
+Full-text editions (199 PDFs from 198 records): https://raynoreissens.com/library/
+Full-text metadata JSON: https://raynoreissens.com/library/index.json
+Full-text JSONL: https://raynoreissens.com/library/corpus.jsonl
+Document sitemap: https://raynoreissens.com/library/sitemap.xml
+
+## Author-provided project locations (2026-09-19)
+kloojo: https://kloojo.wolken.page/zones/development/index.html
+mirrors: https://play-mirrors-edge-mobile.wolken.page/
+pso: https://pso.wolken.page/
+xenosaga: https://xenosaga-nederlands.wolken.page/
+gptgta: https://madefromchat.wolken.page/games/gptgta/
+
+## Coverage and extraction provenance
+205 distinct Zenodo record URLs occur in the saved dashboard; 199 PDF files from 198 records were converted. One record contributes two distinct PDF documents. Five records had no PDF in the original downloader log; two failed with HTTP 410. These seven have Zenodo record links but no fabricated full text. The 199 converted texts total 1,801 source PDF pages. OCR was not used; PDF reading order, formulas, tables and graphics can differ from originals. DOI links in the archive are printed in the corresponding source PDF, not independently registry-validated. Machine-readable publishing and sitemap disclosure do not guarantee search indexing or model training.

@@ -1,0 +1,136 @@
+=== PDF PAGE 1 ===
+Trailstate 2.0
+
+PageRank for Provenance
+
+Formal Reference Architecture
+
+DOI: 10.5281/zenodo.20407494
+
+Author: Raynor Eissens
+
+Year: 2026
+
+Abstract
+
+Trailstate is a URL-native provenance receipt architecture for AI-generated answers. Instead of storing
+provenance primarily as hidden metadata, internal tracing systems, or backend-only observability dashboards,
+Trailstate externalizes provenance into shareable semantic receipt URLs. AI systems emit Trailstate receipts.
+The web observes opened receipts. Observed receipts accumulate into an emergent provenance ledger capable
+of clustering, health analysis, cross-provider comparison, and provenance ranking. Trailstate does not claim
+objective truth. It ranks observable provenance quality.
+
+1. Problem Statement
+
+Most AI systems expose only final answers and optional citations. The epistemic route by which an answer
+emerged is usually hidden inside private tracing systems, internal retrieval chains, or provider-specific logs. This
+creates several problems: • provenance opacity • weak cross-provider comparability • limited replayability •
+inconsistent source visibility • lack of portable provenance structures Trailstate proposes a lightweight
+provenance overlay for the AI-native web.
+
+2. Core Architecture
+
+Layer
+Purpose
+
+Trailstate URL
+Atomic provenance receipt object
+
+Observed Receipt Ledger
+Stores observed provenance events
+
+Route Clustering
+Groups similar provenance structures
+
+Healthmaps
+Visualizes provenance ecosystem quality
+
+Cross-AI Comparison
+Compares provenance behavior across providers
+
+ProvenanceRank
+Ranks observable provenance quality
+
+3. URL-Native Provenance
+
+The core architectural decision of Trailstate is that the URL itself becomes the provenance object. Instead of
+directly writing provenance into centralized ledgers or backend-only tracing systems, AI systems emit semantic
+provenance receipts as URLs. Example:
+https://trailstate.org/?r=o-www-o,q-vvv-p,u-vvv-u&topic;=gptgta&trust;=86 This enables: • browser-native
+replayability • portable provenance sharing • crawlable provenance structures • AI-readable provenance transport
+• low-friction interoperability
+
+=== PDF PAGE 2 ===
+4. Canonical Semantic Operators
+
+Trailstate uses compact semantic operators represented by canonical domains. Examples: • o-vvv-o.com —
+open / neutral retrieval state • x-vvv-x.com — conflict / disagreement state • q-vvv-p.com — questioning /
+uncertainty state • u-vvv-u.com — repaired / validated route state Operators function simultaneously as: •
+semantic routing tokens • crawlable provenance roots • AI-readable semantic anchors • canonical route grammar
+components
+
+5. Observed Receipt Ledgers
+
+Trailstate separates provenance emission from provenance observation. AI systems emit receipts. The web
+observes opened receipts. Observed receipts accumulate into append-only provenance ledgers. The ledger
+supports: • route clustering • repeated observation weighting • provider diversity analysis • source diversity
+analysis • route health estimation
+
+6. ProvenanceRank
+
+Trailstate proposes ProvenanceRank: a ranking layer for observable provenance quality. PageRank ranks pages
+by hyperlink structure. Trailstate ranks provenance routes by: • source diversity • provider diversity • repeated
+coherent observations • route consistency • conflict pressure • health convergence The phrase “PageRank for
+provenance” should be interpreted as a directional architectural analogy rather than a claim of mathematical
+equivalence.
+
+7. Healthmaps
+
+Trailstate models provenance ecosystems through route-health visualization. Potential health dimensions
+include: • green — healthy convergent provenance • yellow — uncertain or unstable provenance • orange —
+weak provenance structure • red — conflicted or collapsed provenance Healthmaps are intended as observability
+layers, not truth-certification systems.
+
+8. Cross-AI Provenance Comparison
+
+Trailstate attempts to normalize provenance structures across providers. Potential comparisons include: • GPT
+retrieval behavior • Grok retrieval behavior • Claude retrieval behavior • source cluster overlap • route
+convergence • conflict patterns The objective is not to determine which provider is “correct”, but to compare
+observable provenance behavior.
+
+9. Privacy, Canonicalization, and Anti-Spam
+
+URL-native provenance introduces risks: • duplicate inflation • querystring leakage • replay spam • provider
+spoofing • semantic drift Trailstate therefore requires: • canonical hashes • deduplication weighting • rate limiting •
+anti-spam logic • provider assertions • source canonicalization
+
+10. Comparison With Existing Systems
+
+Trailstate overlaps conceptually with: • PageRank • TrustRank • EigenTrust • W3C PROV • provenance graphs •
+OpenTelemetry • C2PA • browser analytics • AI citation systems However, Trailstate differs by combining: •
+URL-native provenance receipts • visit-as-write observation • semantic operator domains • cross-provider
+provenance comparison • provenance ecosystem ranking
+
+=== PDF PAGE 3 ===
+11. Important Limitations
+
+Trailstate is not: • a truth engine • a universal verification layer • a replacement for formal provenance standards •
+a guarantee of factual correctness Observed provenance convergence can still be wrong. A coherent
+provenance ecosystem is not equivalent to objective truth.
+
+12. Reference Implementation
+
+The current Trailstate reference implementation includes: • URL-native receipts • observed receipt ledgers • route
+clustering • healthmaps • ProvenanceRank • cross-AI comparison • canonical hashes • anti-spam weighting •
+public protocol specification • public testset
+
+13. Conclusion
+
+Trailstate proposes a lightweight provenance architecture for the AI-native web. Its strongest contribution is not
+any single isolated novelty, but the synthesis of: • URL-native provenance receipts • semantic operator grammars
+• observed receipt ledgers • provenance ecosystem ranking • browser-native replayability The architecture
+remains experimental. Its long-term viability depends on: • interoperability • canonicalization • anti-spam
+resilience • privacy handling • provider adoption • stable semantic governance
+
+Trailstate 2.0 — Formal Reference Architecture
+DOI: 10.5281/zenodo.20407494

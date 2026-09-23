@@ -1,0 +1,72 @@
+=== PDF PAGE 1 ===
+Liquid Power Fantasy Routing v0.2
+AI-Native Save Routing & Dual-Layer Session Memory
+
+Author
+Raynor Eissens
+
+Version
+v0.2
+
+DOI
+10.5281/zenodo.20381720
+
+Date
+2026-05-25 UTC
+
+Abstract
+This paper extends Liquid Power Fantasy Routing into a working AI-native prototype architecture for game
+progression memory. The system transforms vague player desire through AI conversation into persistent dual-layer
+session artifacts: a machine-readable Save JSON and a narrative Skit JSON. Together they create reloadable,
+browsable, and continuable playthrough memory. The prototype demonstrates desire-based progression routing
+using Torchlight II as the first operational implementation.
+
+Core Thesis
+Traditional game guides optimize documentation. Liquid Power Fantasy Routing optimizes becoming. The player
+does not fundamentally seek information; the player seeks transformation into a desired fantasy state. AI chat
+becomes the crystallization layer that converts vague desire into structured progression state.
+
+v0.2 Runtime Architecture
+Desired Fantasy → AI Chat Crystallization → Validated Corpus → Save JSON → Skit JSON → Continue Session →
+Narrative Progression Layer
+
+Dual-Layer Session Model
+The prototype introduces two persistent session artifacts:
+
+• Save JSON — machine-readable progression state (skills, stats, loot, area, routing layers, progression state)
+• Skit JSON — compact narrative memory layer summarizing the emotional and strategic meaning of the session
+
+This creates a living progression archive rather than a static savegame.
+
+Desire Routing Layers
+The system separates progression into multiple routing identities:
+
+• Core Build Path
+• Optional Branches
+• Hardcore Safety Options
+
+This allows AI-native progression reasoning to preserve fantasy identity while still acknowledging survival routes,
+panic branches, and fallback states.
+
+Torchlight II Prototype
+Torchlight II serves as the first live implementation because its progression structure naturally supports fantasy
+routing: skills, loot, pets, class identity, stat planning, risk management, and branching build logic. The prototype
+demonstrates:
+
+• AI-generated Save JSON
+
+=== PDF PAGE 2 ===
+• AI-generated Skit JSON
+• session continuation flows
+• export/import bundles
+• progression recap layers
+• persistent narrative continuity
+
+First-Mover Statement
+To the best of the author's knowledge, Liquid Power Fantasy Routing v0.2 represents an early formalization and
+working prototype of AI-native save routing using dual-layer progression persistence (Save JSON + Skit JSON) and
+narrative progression continuity.
+
+Closing
+The transition from guides to routing evolves further in v0.2: the save is no longer only mechanical state. The save
+becomes a persistent memory of becoming.

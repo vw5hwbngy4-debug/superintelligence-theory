@@ -1,0 +1,70 @@
+=== PDF PAGE 1 ===
+Liquid Power Fantasy Routing
+
+An AI-Native Architecture for Post-Guide Game Progression
+
+Author
+Raynor Eissens
+
+Version
+v0.1
+
+DOI
+10.5281/zenodo.20363313
+
+Date
+2026-05-24 UTC
+
+Abstract
+
+This paper introduces Liquid Power Fantasy Routing, an AI-native architecture for game progression systems.
+Traditional game guides are static documents that explain information linearly. Liquid Power Fantasy Routing
+reframes the problem around player desire: the desired fantasy state becomes the root node, and the system
+dynamically routes backward through validated game knowledge, loot probabilities, progression paths, farming
+loops, fallback states, and adaptive milestones.
+
+Core Thesis
+
+The future of game guides is not guides. It is routing. Players do not fundamentally seek information. They seek
+transformation into a desired power state: a build, role, class identity, aesthetic, combat loop, or fantasy
+embodiment. Existing guide systems optimize documentation. Liquid Power Fantasy Routing optimizes
+becoming.
+
+Architecture
+
+Canonical routing chain: Desired Fantasy → Required State → Required Objects / Loot → Acquisition Sources →
+Probability Layers → Time Cost → Progression Branches → Intermediate Power States → Fallback Routes →
+Completion State The architecture transforms static game knowledge into a navigable desire graph.
+
+Difference From Prior Art
+
+Existing systems typically fall into four categories: • Wikis → store factual data • Build planners → optimize
+configurations • Guides → explain recommended progression • Databases → expose raw object information
+Liquid Power Fantasy Routing differs by treating the player's desired fantasy as the root computational object.
+The system dynamically resolves progression around that target state.
+
+=== PDF PAGE 2 ===
+PSO Case Study
+
+Phantasy Star Online Episode I & II is a natural fit for Liquid Power Fantasy Routing because progression is
+deeply interconnected: • Section IDs determine loot access • MAG evolution determines long-term stat identity •
+Photon Blasts influence multiplayer synergy • Rare drops create probability-routing structures • Character classes
+create identity-specific optimization paths A player does not merely ask: “Where does this item drop?” The player
+asks: “How do I become this?”
+
+AI-Native Systems
+
+AI systems enable the routing layer to become adaptive rather than static. Instead of fixed pages, the routing
+graph can react to: • player goals • owned items • time constraints • progression state • trade alternatives •
+probability tolerance • social/group composition This creates a liquid progression model rather than a linear guide
+model.
+
+First-Mover Statement
+
+To the best of the author's knowledge, Liquid Power Fantasy Routing represents an early formalization of
+AI-native desire-based progression routing for games.
+
+Closing
+
+The transition from static guides to adaptive fantasy routing mirrors a broader transition from information retrieval
+to dynamic meaning generation. In this model, the guide is no longer the destination. The desired fantasy state is.
